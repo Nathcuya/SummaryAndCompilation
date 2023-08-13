@@ -13,6 +13,12 @@ But we don't consider the stories behind these various mythological systems, thi
 
 But after such a long time, many myths themselves have gradually faded into people's vision, and myths are not static, some of these legends are passed down by word of mouth, and some are poorly written and cannot distinguish their true face.
 
+In the long-term evolution, several relatively clear mythological systems have been derived from countries around the world, among which the more famous ones are **Norse mythology**, **Greek-Roman mythology**, **Celtic mythology**, **Slavic mythology**, **Judeo-Christian mythology**, **Chinese mythology**, **Japanese mythology**, **ancient Indian mythology**, **Egyptian mythology**, **Mesopotamian mythology**, **Mesoamerican mythology** and so on.
+
+Some of these mythological systems also include several different myths.
+
+If it is covered and organized later, it will be supplemented in this document.
+
 **Therefore, this library record can be used as a reference, not a rigorous study. I hope readers will know.**
 
 **如题所见，这个分支库是关于世界各国的神话传说与民俗的一些整理与分享。**
@@ -28,3 +34,10 @@ But after such a long time, many myths themselves have gradually faded into peop
 但历经如此长的时间，很多神话本身就已经逐渐淡化在人们的视野中了，而且，神话并非一成不变，这些传说有的口口相传，有的文字记录模糊不清，并不能辨别它们的真实面目。
 
 **所以本库记录可做参考，而并非严谨的考究。望众读者知晓。**
+
+在长久的演变中，世界各国衍生出几个相对明确的神话体系，其中比较著名的有**北欧神话体系**、**希腊-罗马神话体系**、**凯尔特神话体系**、**斯拉夫神话体系**、**犹太-基督神话体系**、**中国神话体系**、**日本神话体系**、**古印度神话体系**、**埃及神话体系**、**美索不达米亚神话体系**、**中美洲神话体系**等等。
+
+而其中某些神话体系还包括了几种不同的神话。
+
+在之后有所涉及与整理的话，将会在本文件中补充说明。
+
