@@ -1,9 +1,13 @@
-在一切的开始，我会在下面设置一个索引栏，便于寻找和锁定相关内容。
+**在一切的开始，我会在下面设置一个索引栏，便于寻找和锁定相关内容。**
+以下目录两两为一组，即为中英文的不同介绍。
 
-- # 神话体系介绍 
-  # Introduction to Mythical Systems
-  
-* # 
+<!-- TOC -->
+
+- [神话体系介绍-zh](#%E7%A5%9E%E8%AF%9D%E4%BD%93%E7%B3%BB%E4%BB%8B%E7%BB%8D)
+- [Introduction to Mythical Systems-en](#introduction-to-mythical-systems)
+
+<!-- /TOC -->
+
 # 神话体系介绍
 
 首先，我会在此介绍关于希腊与罗马神话体系。
