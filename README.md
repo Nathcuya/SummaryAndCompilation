@@ -1,7 +1,7 @@
 # Mythology And Folklore
 
 
-As the title can see, this branch library is about some compilation and sharing of myths, legends and folklore from countries around the world.
+**As the title can see, this branch library is about some compilation and sharing of myths, legends and folklore from countries around the world.**
 
 As we all know, there have been countless myths and legends in civilizations around the world, and even many have been submerged in the long river of history, and there are many mythological systems that do not exist in isolation, they may be influenced by surrounding civilizations, so as to modify local myths to suit local conditions.
 
@@ -13,9 +13,9 @@ But we don't consider the stories behind these various mythological systems, thi
 
 But after such a long time, many myths themselves have gradually faded into people's vision, and myths are not static, some of these legends are passed down by word of mouth, and some are poorly written and cannot distinguish their true face.
 
-Therefore, this library record can be used as a reference, not a rigorous study. I hope readers will know.
+**Therefore, this library record can be used as a reference, not a rigorous study. I hope readers will know.**
 
-如题所见，这个分支库是关于世界各国的神话传说与民俗的一些整理与分享。
+**如题所见，这个分支库是关于世界各国的神话传说与民俗的一些整理与分享。**
 
 众所周知，曾在世界各地的文明中出现过的神话传说数不胜数，甚至有很多都已经淹没在了历史长河中，还有许多的神话体系并不是孤立存在的，它们可能会受到周边文明的影响，从而对本土神话进行修改，以适应本地的国情。
 
@@ -27,4 +27,4 @@ Therefore, this library record can be used as a reference, not a rigorous study.
 
 但历经如此长的时间，很多神话本身就已经逐渐淡化在人们的视野中了，而且，神话并非一成不变，这些传说有的口口相传，有的文字记录模糊不清，并不能辨别它们的真实面目。
 
-所以本库记录可做参考，而并非严谨的考究。望众读者知晓。
+**所以本库记录可做参考，而并非严谨的考究。望众读者知晓。**
