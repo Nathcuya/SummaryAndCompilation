@@ -1,10 +1,11 @@
-**在一切的开始，我会在下面设置一个索引栏，便于寻找和锁定相关内容。**
-以下目录两两为一组，即为中英文的不同介绍。
+**在一切的开始，我会在下面设置一个索引栏，便于寻找和锁定相关内容。** 以下目录两两为一组，即为中英文的不同介绍。
+
+**At the beginning of everything, I'll set up an index bar below to make it easy to find and lock in relevant content.** The following table of contents is a group of twos, that is, different introductions in Chinese and English.
 
 <!-- TOC -->
 
-- [神话体系介绍-zh](#%E7%A5%9E%E8%AF%9D%E4%BD%93%E7%B3%BB%E4%BB%8B%E7%BB%8D)
-- [Introduction to Mythical Systems-en](#introduction-to-mythical-systems)
+- [神话体系介绍](#%E7%A5%9E%E8%AF%9D%E4%BD%93%E7%B3%BB%E4%BB%8B%E7%BB%8D)
+- [Introduction to Mythical Systems](#introduction-to-mythical-systems)
 
 <!-- /TOC -->
 
