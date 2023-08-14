@@ -10,6 +10,15 @@
 - [Introduction to Mythical Systems](#introduction-to-mythical-systems)
     - [**Greek Mythology**](#greek-mythology)
     - [**Roman mythology**](#roman-mythology)
+- [希腊神话人物索引](#%E5%B8%8C%E8%85%8A%E7%A5%9E%E8%AF%9D%E4%BA%BA%E7%89%A9%E7%B4%A2%E5%BC%95)
+        - [原初神祇](#%E5%8E%9F%E5%88%9D%E7%A5%9E%E7%A5%87)
+            - [卡俄斯](#%E5%8D%A1%E4%BF%84%E6%96%AF)
+            - [盖娅](#%E7%9B%96%E5%A8%85)
+            - [倪克斯](#%E5%80%AA%E5%85%8B%E6%96%AF)
+- [Greek Mythology Character Index](#greek-mythology-character-index)
+        - [Primordial Deities](#primordial-deities)
+            - [Chaos](#chaos)
+            - [Gaia](#gaia)
 
 <!-- /TOC -->
 
@@ -55,3 +64,67 @@ Because of this feature, Greek mythology has not only gods, but also gods, heroe
 They are the life experience and struggle experience of these clans moving forward, as a symbol of the glorious achievements of the clan tribe.
 
 ## **Roman mythology**
+
+
+---
+
+# 希腊神话人物索引
+
+### 原初神祇
+
+#### 卡俄斯
+
+混沌之神，也可以说只是一个概念，代表了存在于宇宙形成之前的一片黑暗世界，是第一代**希腊原始神**的根源。
+从卡俄斯中诞生了希腊神话中的第一代神祇，包括：**盖娅**（大地）、**塔尔塔罗斯**（地狱）、**厄洛斯**（欲望）、**倪克斯**（黑夜）、**厄瑞玻斯**（黑暗）。
+
+#### 盖娅
+
+**大地母神**，[卡俄斯](#%E5%8D%A1%E4%BF%84%E6%96%AF)的产物，众提坦的母亲。
+
+她是古希腊神话中的大母神，创造了原始神祇和宇宙万有的创造之母，所有神灵和人类的始祖母神。
+
+[盖娅](#盖娅)创造了第一位男性神——[乌拉诺斯](#乌拉诺斯)。
+
+她是天空之神乌拉诺斯的母亲，而后与他结合生下十二位**提坦**：[[俄刻阿诺斯]]、[[福柏]]、[[忒提斯]]、[[忒弥斯]]、[[忒亚|#忒亚]]、[[瑞亚]]、[[摩涅莫绪涅]]、[[伊阿珀托斯]]、[[许珀里翁]]、[[克利俄斯]]、[[克洛诺斯]]、[[科俄斯]]；三位[[独眼巨人]]：[[布隆特斯]]、[[史特罗佩斯]]、[[阿尔格斯]]；三位[[百臂巨人]]：。
+
+所有天神都是她的后代，第三代众神之王[[宙斯]]是她的孙子。
+
+#### 倪克斯
+
+在希腊神话中是代表黑夜的女神，也是希腊神话中的原始创世神之一。[[盖娅]]的姐妹。
+
+她是混沌之神——[[卡俄斯]]的女儿，是一位身披黑衣的女神。
+
+她与自己的哥哥[[厄瑞玻斯]]（黑暗）生下了[[埃忒耳]]（太空）和[[赫墨拉]]（白昼），然后她自己又生育了[[摩摩斯]]（嘲笑）、[[波诺斯]]（辛劳）、[[摩罗斯]]（命运）、[[桑那托斯]]（死亡）、[[许普诺斯]]（睡眠）、[[奥涅伊洛斯]]（梦），以及[[赫斯珀里得斯]]（黄昏）、[[克厉]]（幽冥使者）、[[命运三女神]]、[[克蕾丝]]（恶灵）、[[涅墨西斯]]（复仇）、[[阿帕忒]]（欺骗）、[[菲罗忒斯]]（友谊）、[[革剌斯]]（年岁）以及[[厄里斯]]（不和），[[卡戎]]（忘川摆渡者）。
+
+# Greek Mythology Character Index
+
+### Primordial Deities
+
+#### Chaos
+
+The god of chaos, or rather a concept, representing a dark world that existed before the formation of the universe. He is the origin of the first generation of **Greek primordial deities**.
+From Chaos, the first generation of deities in Greek mythology was born, including: **Gaia** (Earth), **Tartarus** (the Underworld), **Eros** (Desire), **Nyx** (Night), **Erebos** (Darkness).
+
+#### Gaia
+
+The **Mother Earth goddess**, a product of [Chaos](#chaos), and the mother of the Titans.
+
+She is a major goddess in ancient Greek mythology, the mother of the primordial deities and the creator of the universe, the maternal ancestor of all gods and humans.
+
+[Gaia](#gaia) gave birth to the first male deity, [Ouranos](#ouranos).
+
+She is the mother of the sky god Ouranos, and with him, she bore twelve **Titans**: [[Okeanos|俄刻阿诺斯]], [[Phoebe|福柏]], [[Tethys|忒提斯]], [[Themis|忒弥斯]], [[Theia|忒亚]], [[Rhea|瑞亚]], [[Mnemosyne|摩涅莫绪涅]], [[Iapetos|伊阿珀托斯]], [[Koios|许珀里翁]], [[Kreios|克利俄斯]], [[Kronos|克洛诺斯]], [[Koios|科俄斯]]; three [[Cyclopes|独眼巨人]]: [[Brontes|布隆特斯]], [[Steropes|史特罗佩斯]], [[Arges|阿尔格斯]]; three [[Hekatonkheires|百臂巨人]]: ...
+
+All the sky deities are her descendants, and the king of the third generation of gods, [[Zeus|宙斯]], is her grandson.
+
+
+#### Nyx
+
+In Greek mythology, Nyx is the goddess representing the night and one of the primordial deities in Greek creation myths. She is the sister of [[Gaia|Gaia]].
+
+She is the daughter of Chaos, the god of chaos, and she is a goddess dressed in dark attire.
+
+With her brother [[Erebos|Erebos]] (Darkness), she gave birth to [[Aether|Aether]] (Space) and [[Hemera|Hemera]] (Daylight). She also gave birth to [[Momos|Momos]] (Mockery), [[Ponos|Ponos]] (Hardship), [[Moros|Moros]] (Destiny), [[Thanatos|Thanatos]] (Death), [[Hypnos|Hypnos]] (Sleep), [[Oneiros|Oneiros]] (Dreams), [[Hesperides|Hesperides]] (Evening), [[Charon|Charon]] (Ferryman of the Underworld), the [[Moirai|Fates]], [[Keres|Keres]] (Evil Spirits), [[Nemesis|Nemesis]] (Retribution), [[Apate|Apate]] (Deception), [[Philotes|Philotes]] (Friendship), [[Geras|Geras]] (Old Age), and [[Eris|Eris]] (Strife), [[Ker|Ker]] (Ferryman of Hades).
+
+
