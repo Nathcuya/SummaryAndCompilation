@@ -11,14 +11,15 @@
     - [**Greek Mythology**](#greek-mythology)
     - [**Roman mythology**](#roman-mythology)
 - [希腊神话人物索引](#%E5%B8%8C%E8%85%8A%E7%A5%9E%E8%AF%9D%E4%BA%BA%E7%89%A9%E7%B4%A2%E5%BC%95)
-        - [原初神祇](#%E5%8E%9F%E5%88%9D%E7%A5%9E%E7%A5%87)
-            - [卡俄斯](#%E5%8D%A1%E4%BF%84%E6%96%AF)
-            - [盖娅](#%E7%9B%96%E5%A8%85)
-            - [倪克斯](#%E5%80%AA%E5%85%8B%E6%96%AF)
+    - [原初神祇](#%E5%8E%9F%E5%88%9D%E7%A5%9E%E7%A5%87)
+        - [卡俄斯](#%E5%8D%A1%E4%BF%84%E6%96%AF)
+        - [盖娅](#%E7%9B%96%E5%A8%85)
+        - [倪克斯](#%E5%80%AA%E5%85%8B%E6%96%AF)
 - [Greek Mythology Character Index](#greek-mythology-character-index)
-        - [Primordial Deities](#primordial-deities)
-            - [Chaos](#chaos)
-            - [Gaia](#gaia)
+    - [Primordial Deities](#primordial-deities)
+        - [Chaos](#chaos)
+        - [Gaia](#gaia)
+        - [Nyx](#nyx)
 
 <!-- /TOC -->
 
@@ -70,14 +71,14 @@ They are the life experience and struggle experience of these clans moving forwa
 
 # 希腊神话人物索引
 
-### 原初神祇
+## 原初神祇
 
-#### 卡俄斯
+### 卡俄斯
 
 混沌之神，也可以说只是一个概念，代表了存在于宇宙形成之前的一片黑暗世界，是第一代**希腊原始神**的根源。
 从卡俄斯中诞生了希腊神话中的第一代神祇，包括：**盖娅**（大地）、**塔尔塔罗斯**（地狱）、**厄洛斯**（欲望）、**倪克斯**（黑夜）、**厄瑞玻斯**（黑暗）。
 
-#### 盖娅
+### 盖娅
 
 **大地母神**，[卡俄斯](#%E5%8D%A1%E4%BF%84%E6%96%AF)的产物，众提坦的母亲。
 
@@ -89,7 +90,7 @@ They are the life experience and struggle experience of these clans moving forwa
 
 所有天神都是她的后代，第三代众神之王[[宙斯]]是她的孙子。
 
-#### 倪克斯
+### 倪克斯
 
 在希腊神话中是代表黑夜的女神，也是希腊神话中的原始创世神之一。[[盖娅]]的姐妹。
 
@@ -99,14 +100,14 @@ They are the life experience and struggle experience of these clans moving forwa
 
 # Greek Mythology Character Index
 
-### Primordial Deities
+## Primordial Deities
 
-#### Chaos
+### Chaos
 
 The god of chaos, or rather a concept, representing a dark world that existed before the formation of the universe. He is the origin of the first generation of **Greek primordial deities**.
 From Chaos, the first generation of deities in Greek mythology was born, including: **Gaia** (Earth), **Tartarus** (the Underworld), **Eros** (Desire), **Nyx** (Night), **Erebos** (Darkness).
 
-#### Gaia
+### Gaia
 
 The **Mother Earth goddess**, a product of [Chaos](#chaos), and the mother of the Titans.
 
@@ -119,7 +120,7 @@ She is the mother of the sky god Ouranos, and with him, she bore twelve **Titans
 All the sky deities are her descendants, and the king of the third generation of gods, [[Zeus|宙斯]], is her grandson.
 
 
-#### Nyx
+### Nyx
 
 In Greek mythology, Nyx is the goddess representing the night and one of the primordial deities in Greek creation myths. She is the sister of [[Gaia|Gaia]].
 
