@@ -1,5 +1,6 @@
 # Mythology And Folklore
 
+**EN**
 
 **As the title can see, this branch library is about some compilation and sharing of myths, legends and folklore from countries around the world.**
 
@@ -20,6 +21,11 @@ Some of these mythological systems also include several different myths.
 If it is covered and organized later, it will be supplemented in this document.
 
 **Therefore, this library record can be used as a reference, not a rigorous study. I hope readers will know.**
+
+---
+
+
+**ZH-CN**
 
 **如题所见，这个分支库是关于世界各国的神话传说与民俗的一些整理与分享。**
 
