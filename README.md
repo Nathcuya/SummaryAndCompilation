@@ -22,6 +22,11 @@ If it is covered and organized later, it will be supplemented in this document.
 
 **Therefore, this library record can be used as a reference, not a rigorous study. I hope readers will know.**
 
+During the long evolution, several relatively clear mythological systems have been derived from countries all over the world, among which the more famous ones are **Northern European Mythological System**, **Greco-Roman Mythological System**, **Celtic Mythological System**, **Slavic Mythological System**, **Jewish-Christian Mythological System**, **Chinese Mythological System**, **Japanese Mythological System**, **Chinese Mythology**, **Egyptian Mythology**, **Mesopotamian Mythology**, **Central American Mythology**, and so on. *, **Egyptian mythology**, **Mesopotamian mythology**, **Mediterranean mythology**, and so on.
+
+And some of these mythological systems include several different myths.
+
+If any of these mythologies are subsequently addressed and organized, they will be added to this document.
 ---
 
 
