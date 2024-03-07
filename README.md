@@ -27,8 +27,8 @@ During the long evolution, several relatively clear mythological systems have be
 And some of these mythological systems include several different myths.
 
 If any of these mythologies are subsequently addressed and organized, they will be added to this document.
----
 
+---
 
 **ZH-CN**
 
